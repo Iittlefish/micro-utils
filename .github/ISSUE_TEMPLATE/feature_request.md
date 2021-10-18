@@ -7,14 +7,12 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# feature number : f
+Enter the serial number of feature request. For example: f001, f002, ...
+and this feature number will be the branch name of this feature request.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+##  feature list
+write a list of your feature request. and describe this feature. 
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
+## Additional context**
 Add any other context or screenshots about the feature request here.
